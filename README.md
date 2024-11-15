@@ -1,3 +1,3 @@
 # food-dist
-this website is for ordering diet food
+сайт для правильного питания
 - https://genssi.github.io/food-dist/
